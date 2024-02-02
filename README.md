@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning Java, Spring, Springboot!
 - 📫 How to reach me instagram @easy1nhard2
 
-👩‍💻 Vice-President of the SeoulTech ITM major Student Council
-
+👩‍💻 Vice-President of the SeoulTech ITM major Student Council <br>
 👩‍💻 Google Developer Students Club 3th Member
-<br><br>
+
+
 🥉 IT Service Idea Planning Contest 2023
 
 I'm keeping records on GitHub for programming study that started in 2023.
