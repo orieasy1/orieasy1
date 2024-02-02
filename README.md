@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orieasy1
-- 🏫 🇰🇷 Degree: Information Technology Management in SeoulTech (Sophomore)
-- 🏫 🇬🇧 Degree: Information Technology Management In Northumbria University (Level 4)
+- 🏫 Degree: Information Technology Management in SeoulTech🇰🇷 (Sophomore)
+- 🏫 Degree: Information Technology Management In Northumbria University🇬🇧 (Level 4)
 - 👀 I’m interested in Java Web Programming.
 - 🌱 I’m currently learning Java, Spring, Springboot!
 - 📫 How to reach me instagram @easy1nhard2
