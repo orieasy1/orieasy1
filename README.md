@@ -3,11 +3,12 @@
 - 🏫 Degree: Information Technology Management In Northumbria University🇬🇧 (Level 4)
 - 👀 I’m interested in Java Web Programming.
 - 🌱 I’m currently learning Java, Spring, Springboot!
-- 📫 How to reach me instagram @easy1nhard2
+- 📫 How to reach me by instagram @easy1nhard2
   
 👩‍💻 Google Developer Students Club 3th Member <br>
 👩‍💻 Vice-President of the SeoulTech ITM major Student Council <br>
-👩‍💻 Member of the Seoultech International Students' Club
+👩‍💻 Member of ITM major's Algorithm Study Club "Algorithm Panda"
+🌏 Member of the SeoulTech International Students' Club
 
 
 🥉 Won bronze prize IT Service Idea Planning Contest 2023.
