@@ -7,7 +7,7 @@
   
 👩‍💻 Google Developer Students Club 3th Member <br>
 👩‍💻 Vice-President of the SeoulTech ITM major Student Council <br>
-👩‍💻 Member of ITM major's Algorithm Study Club "Algorithm Panda"
+👩‍💻 Member of ITM major's Algorithm Study Club "Algorithm Panda" <br>
 🌏 Member of the SeoulTech International Students' Club
 
 
