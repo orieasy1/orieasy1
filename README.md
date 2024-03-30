@@ -35,7 +35,7 @@ I started studying programming in April 2023 and have been recording my study pr
 
 ## ✏️ These days, I am studying..
 
-* Java Language
+* Java (+ Algorithm)
 * Spring Framework
 * JavaScript
 * SQL
