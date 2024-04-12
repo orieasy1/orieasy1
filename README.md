@@ -39,7 +39,6 @@ I started studying programming in April 2023 and have been recording my study pr
 * Spring Framework
 * JavaScript
 * SQL
-* Linux
 * You can check my study record at [24-1-Programming-Study](https://github.com/orieasy1/24-1-Programming-Study) 
 
 <br>
