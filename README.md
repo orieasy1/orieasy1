@@ -5,7 +5,7 @@
 🏫 Degree: Information Technology Management in SeoulTech🇰🇷 (Sophomore) <br>
 🏫 Degree: Information Technology Management In Northumbria University🇬🇧 (Level 4)<br>
 🌱 I’m currently learning Java, Spring, Springboot, JavaScript!<br>
-📫 My Blog: <https://velog.io/@easy1nhard2/posts> <br>
+📫 My Blog: <https://easy1nhard2.tistory.com/> <br>
 <br>
   
 👩‍💻 Google Developer Students Club 3th Member <br>
@@ -33,6 +33,16 @@ I started studying programming in April 2023 and have been recording my study pr
 
 <br>
 
+## 💻 I've worked on..
+
+**STREcording: 2024 Google Solution Challenge**
+
+* It's an app that helps manage stress and emotions by analyzing voice diaries. 
+* It provides accurate stress levels and personalized activity recommendations to user to improve mental well-being. 
+* If you are interested in, please check [STREcording github](https://github.com/Solution-Challenge-stress-solution)
+
+<br>
+
 ## ✏️ These days, I am studying..
 
 * Java (+ Algorithm)
@@ -57,12 +67,3 @@ I started studying programming in April 2023 and have been recording my study pr
 	* Python
 	* R
 
- <br>
- 
-## 💻 I've worked on..
-
-**STREcording: 2024 Google Solution Challenge**
-
-* It's an app that helps manage stress and emotions by analyzing voice diaries. 
-* It provides accurate stress levels and personalized activity recommendations to user to improve mental well-being. 
-* If you are interested in, please check [STREcording github](https://github.com/Solution-Challenge-stress-solution)
