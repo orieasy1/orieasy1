@@ -14,21 +14,26 @@
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:easy1nhard2@gmail.com)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/easy1nhard2/)
 
-<br>
+<a href="https://github.com/orieasy1/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orieasy1&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/orieasy1/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=orieasy1&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<br><br>
 
 **👩‍💻 Backend Part Memeber of 9oormthon Univ SeoulTech (2024)** <br>
 **👩‍💻 Google Developer Students Seoultech Club 3th Member (2023-2024)** <br>
 👩‍💻 Member of ITM major Algorithm Study Club "Algorithm Panda" (2024) <br>
 **🏄‍♀️ Vice-President of the SeoulTech ITM major Student Council (2024)** <br>
 **👩‍💻 Manager of IT department of SeoulTech Total Student Council (2023)** <br>
-🌏 Member of the SeoulTech International Students' Club (2023-2024) <br>
 
 🥉 Won bronze prize at IT Service Idea Planning Contest (2023) <br>
 🥉 Take 3rd place at SNUSTHON (2024)
 
 <br>
 
-## 🛠️ My Tech Stack
+### 🛠️ My Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -48,7 +53,7 @@
 
 <br>
 
-## ✏️ These days, I am working on...
+### ✏️ These days, I am working on...
 **ST:table Order Service** `Nov 2024 ~ing` <br>
 Participated as Backend Developer.
 * This is the online ordering service of the SEOULTECH school cafeteria.
@@ -56,7 +61,7 @@ Participated as Backend Developer.
 
 <br>
 
-## 💻 I've worked on..
+### 💻 I've worked on..
 **주문 Easy!: DANPOONGTHON 2024** `Nov 2024` <br>
 Participated as Backend Developer.
 * It is an app that provides kiosk usage training for people who are inexperienced in using kiosks.
@@ -83,7 +88,7 @@ Participated as: PM & Backend Developer & Designer.
 
 <br>
 
-**📂 Study Records**
+### 📂 Study Records
 
 * [23-1-Programming-Study](https://github.com/orieasy1/23-1-Programming-Study)
 * [23-2-Programming-Study](https://github.com/orieasy1/23-2-Programming-Study)
