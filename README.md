@@ -9,18 +9,18 @@
 🏫 Degree: Information Technology Management in SeoulTech🇰🇷 (Sophomore) <br>
 🏫 Degree: Information Technology Management In Northumbria University🇬🇧 (Level 4)<br>
 
-**Contact**<
+**Contact**<br>
 [![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistoryK&logoColor=white)](https://easy1nhard2.tistory.com/)
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmailK&logoColor=white)](mailto:easy1nhard2@gmail.com)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagramK&logoColor=white)](https://www.instagram.com/easy1nhard2/)
 
 <br>
 
-👩‍💻 Backend Part Memeber of 9oormthon Univ SeoulTech (2024) <br>
-👩‍💻 Google Developer Students Seoultech Club 3th Member (2023-2024) <br>
+**👩‍💻 Backend Part Memeber of 9oormthon Univ SeoulTech (2024)** <br>
+**👩‍💻 Google Developer Students Seoultech Club 3th Member (2023-2024)** <br>
 👩‍💻 Member of ITM major Algorithm Study Club "Algorithm Panda" (2024) <br>
-👩‍💻 Vice-President of the SeoulTech ITM major Student Council (2024) <br>
-👩‍💻 Manager of IT department of SeoulTech Total Student Council (2023) <br>
+**🏄‍♀️ Vice-President of the SeoulTech ITM major Student Council (2024)** <br>
+**👩‍💻 Manager of IT department of SeoulTech Total Student Council (2023)** <br>
 🌏 Member of the SeoulTech International Students' Club (2023-2024) <br>
 
 🥉 Won bronze prize at IT Service Idea Planning Contest (2023) <br>
