@@ -10,9 +10,9 @@
 🏫 Degree: Information Technology Management In Northumbria University🇬🇧 (Level 4)<br>
 
 **Contact**<br>
-[![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistoryK&logoColor=white)](https://easy1nhard2.tistory.com/)
-[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmailK&logoColor=white)](mailto:easy1nhard2@gmail.com)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagramK&logoColor=white)](https://www.instagram.com/easy1nhard2/)
+[![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://easy1nhard2.tistory.com/)
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:easy1nhard2@gmail.com)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/easy1nhard2/)
 
 <br>
 
