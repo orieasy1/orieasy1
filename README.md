@@ -2,7 +2,7 @@
 
 
 
-## About Me
+## About Me🐣
 ### 🏫 Degree
 Information Technology Management in SeoulTech🇰🇷 : Sophomore <br>
 Information Technology Management In Northumbria University(Dual Degree)🇬🇧 : Level 4<br>
@@ -19,7 +19,7 @@ Information Technology Management In Northumbria University(Dual Degree)🇬🇧
 👩‍💻 Member of ITM major Algorithm Study Club "Algorithm Panda" `2024` <br>
 **🏄‍♀️ Vice-President of the SeoulTech ITM major Student Council `2024`** <br>
 **🏄‍♀️ Manager of IT department of SeoulTech Total Student Council `2023`** <br>
-**🌏 Member of the Seoultech International Student Club `2023-2024`**
+🌏 Member of the Seoultech International Student Club `2023-2024`
 
 ### 🏆 Awards
 🥇 Won gold prize at Global Challenger `2024` <br>
