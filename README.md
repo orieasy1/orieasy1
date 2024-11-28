@@ -28,7 +28,7 @@ Information Technology Management In Northumbria University(Dual Degree)🇬🇧
 
 <br>
 
-## 🛠️ My Tech Stack
+## My Tech Stack🛠️
 <a href="https://github.com/orieasy1/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orieasy1&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
@@ -52,7 +52,7 @@ Information Technology Management In Northumbria University(Dual Degree)🇬🇧
 
 <br>
 
-### ✏️ These days, I am working on...
+### These days, I am working on...✏️
 **🍽️ ST:table Order Service** `Nov 2024 ~ing` <br>
 Participated as Backend Developer.
 * This is the online ordering service of the SEOULTECH school cafeteria.
@@ -60,8 +60,8 @@ Participated as Backend Developer.
 
 <br>
 
-### 💻 I've worked on..
-**📲 주문 Easy!: DANPOONGTHON 2024** `Nov 2024` <br>
+### I've worked on...💻
+**📲 주문 Easy!: DANPUNGTHON 2024** `Nov 2024` <br>
 Participated as Backend Developer.
 * It is an app that provides kiosk usage training for people who are inexperienced in using kiosks.
 * It provides a function that guides you on how to use kiosks at restaurants, cafes, and fast food restaurants and allows you to practice it yourself.
@@ -87,7 +87,7 @@ Participated as: PM & Backend Developer & Designer.
 
 <br>
 
-### 📂 Study Records
+### Study Records📂
 
 * [23-1-Programming-Study](https://github.com/orieasy1/23-1-Programming-Study)
 * [23-2-Programming-Study](https://github.com/orieasy1/23-2-Programming-Study)
