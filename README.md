@@ -4,8 +4,8 @@
 
 ## About Me🐣
 ### 🏫 Degree
-Information Technology Management in SeoulTech🇰🇷 : Sophomore <br>
-Information Technology Management In Northumbria University(Dual Degree)🇬🇧 : Level 4<br>
+Information Technology Management in SeoulTech🇰🇷 : Junior <br>
+Information Technology Management In Northumbria University(Dual Degree)🇬🇧 : Level 5<br>
 
 ### 📞 Contact
 [![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://easy1nhard2.tistory.com/)
@@ -14,6 +14,7 @@ Information Technology Management In Northumbria University(Dual Degree)🇬🇧
 
 
 ### 🤸‍♀️ Activities
+**🧪 Working as Intern(undergraduate research student) in IXLAB SeoulTech `2025`**<br> 
 **👩‍💻 Backend Part Memeber of 9oormthon Univ SeoulTech `2024`** <br>
 **👩‍💻 Google Developer Students Club Seoultech 3th Member `2023-2024`** <br>
 👩‍💻 Member of ITM major Algorithm Study Club "Algorithm Panda" `2024` <br>
