@@ -8,7 +8,7 @@ Information Technology Management in SeoulTech🇰🇷 : Junior <br>
 Information Technology Management In Northumbria University(Dual Degree)🇬🇧 : Level 5<br>
 
 ### 📞 Contact
-[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-D1D8BE?style=for-the-badge)](https://st-itm-2025-1.github.io/hoa02-orieasy1/skills.html)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-D1D8BE?style=for-the-badge)](https://st-itm-2025-1.github.io/hoa02-orieasy1/index.html)
 [![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://easy1nhard2.tistory.com/)
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:easy1nhard2@gmail.com)
 
