@@ -58,14 +58,6 @@ Information Technology Management In Northumbria University(Dual Degree)🇬🇧
 
 <br>
 
-### These days, I am working on...✏️
-**🍽️ ST:table Order Service** `Nov 2024 ~ing` <br>
-Participated as Backend Developer.
-* This is the online ordering service of the SEOULTECH school cafeteria.
-* If you are interested in, please check [ST:table GitHub](https://github.com/ST-table-service).
-
-<br>
-
 ### I've worked on...💻
 **📲 주문 Easy!: DANPUNGTHON 2024** `Nov 2024` <br>
 Participated as Backend Developer.
