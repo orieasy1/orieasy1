@@ -14,10 +14,10 @@ Information Technology Management In Northumbria University(Dual Degree)🇬🇧
 
 
 ### 🤸‍♀️ Activities
-**🧪 Working as Intern(undergraduate research student) in IXLAB SeoulTech `2025`**<br> 
+**🧪 Working as Intern(undergraduate research student) in IXLAB SeoulTech `2025`**<br>
+**👩‍💻 Google Developer Groups on Campus 5th Core Member `2025-2026`** <br>
 **👩‍💻 Backend Part Memeber of 9oormthon Univ SeoulTech `2024`** <br>
 **👩‍💻 Google Developer Students Club Seoultech 3th Member `2023-2024`** <br>
-👩‍💻 Member of ITM major Algorithm Study Club "Algorithm Panda" `2024` <br>
 **🏄‍♀️ Vice-President of the SeoulTech ITM major Student Council `2024`** <br>
 **🏄‍♀️ Manager of IT department of SeoulTech Total Student Council `2023`** <br>
 🌏 Member of the Seoultech International Student Club `2023-2024`
