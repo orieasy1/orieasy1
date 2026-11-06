@@ -93,11 +93,3 @@ Participated as: PM & Backend Developer & Designer.
 * If you are interested in, please check [STREcording github](https://github.com/Solution-Challenge-stress-solution)
 
 <br>
-
-### Study Records📂
-
-* [23-1-Programming-Study](https://github.com/orieasy1/23-1-Programming-Study)
-* [23-2-Programming-Study](https://github.com/orieasy1/23-2-Programming-Study)
-* [24-1-Programming-Study](https://github.com/orieasy1/24-1-Programming-Study)
-* [24-2-Programming-Study](https://github.com/orieasy1/24-2-Programming-Study)
-
