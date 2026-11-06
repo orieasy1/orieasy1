@@ -1,8 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=170&section=header&text=Jiwon's%20GitHub&fontSize=50&fontColor=FFFFFF&fontAlign=70&fontAlignY=30)
 
 
-
-## About Me🐣
 ### 🏫 Degree
 Information Technology Management in SeoulTech🇰🇷 : Senior <br>
 Information Technology Management In Northumbria University(Dual Degree)🇬🇧 : Level 6<br>
@@ -14,56 +12,25 @@ Information Technology Management In Northumbria University(Dual Degree)🇬🇧
 
 
 ### 🤸‍♀️ Activities
-🧪 Worked as a Visiting Researcher in Lancaster University `Summer 2026`<br>
-🧪 Worked as an Undergraduate Research Student in IXLAB SeoulTech `2025`<br>
-👩‍💻 Google Developer Groups on Campus 5th Core Member `2025-2026`<br>
-👩‍💻 Backend Part Memeber of 9oormthon Univ SeoulTech `2024` <br>
-👩‍💻 Google Developer Students Club Seoultech 3th Member `2023-2024` <br>
-🏄‍♀️ Vice-President of the SeoulTech ITM major Student Council `2024` <br>
-🏄‍♀️ Manager of IT department of SeoulTech Total Student Council `2023` <br>
-🌏 Member of the Seoultech International Student Club `2023-2024`
+- As Researcher
+    - Worked as a Visiting Researcher in Lancaster University `Summer 2026`
+    - Worked as an Undergraduate Research Student in IXLAB SeoulTech `2025`
+- As Backend Developer
+    - Google Developer Groups on Campus 5th Core Member `2025-2026`
+    - Backend Part Memeber of 9oormthon Univ SeoulTech `2024`
+    - Google Developer Students Club Seoultech 3th Member `2023-2024`
+- Etc
+    - Vice-President of the SeoulTech ITM major Student Council `2024`
+    - Manager of IT department of SeoulTech Total Student Council `2023`
+    - Member of the Seoultech International Student Club `2023-2024`
 
+<br>
 
 ### 📑 Publications
 [Y. Jeong*, **J. Lee***, J.-Y. Jeong, E. Byun, H. Ko, and J.-W. Jeong. 2026. Investigating the Impact of Lying Postures on Mixed Reality Interaction. In Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), Barcelona, Spain.](https://dl.acm.org/doi/10.1145/3772363.3798467)
 
 [**J. Lee**, H. Ko, E. Byun, Y. Jeong, J.-Y. Jeong, J. Oh, and J. Jeong. 2025. 다양한 누운자세가 혼합현실(MR)에서의 3차원조작성능에 미치는 영향분석(Effects of Different Lying-Down
 Postures on 3D Manipulation Performance in Mixed Reality). In Proceedings of the Korea Computer Congress 2025 (KSC 2025), 1073–1075.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577737)
-
-
-### 🏆 Awards
-🥇 Won gold prize at Global Challenger `2024` <br>
-🥉 Take 3rd place at SNUSTHON `2024` <br>
-🥉 Won bronze prize at IT Service Idea Planning Contest `2023`
-
-<br>
-
-## My Tech Stack🛠️
-<a href="https://github.com/orieasy1/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orieasy1&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/orieasy1/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=orieasy1&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%5FA04E.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AmazonS3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 
 <br>
 
