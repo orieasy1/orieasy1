@@ -4,23 +4,32 @@
 
 ## About Me🐣
 ### 🏫 Degree
-Information Technology Management in SeoulTech🇰🇷 : Junior <br>
-Information Technology Management In Northumbria University(Dual Degree)🇬🇧 : Level 5<br>
+Information Technology Management in SeoulTech🇰🇷 : Senior <br>
+Information Technology Management In Northumbria University(Dual Degree)🇬🇧 : Level 6<br>
 
 ### 📞 Contact
-[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-D1D8BE?style=for-the-badge)](https://orieasy1.github.io/easy1nhard2/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-D1D8BE?style=for-the-badge)](https://jiwon-lee.vercel.app/#/)
 [![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://easy1nhard2.tistory.com/)
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:easy1nhard2@gmail.com)
 
 
 ### 🤸‍♀️ Activities
-**🧪 Working as an Undergraduate Research Student in IXLAB SeoulTech `2025`**<br>
-**👩‍💻 Google Developer Groups on Campus 5th Core Member `2025-2026`** <br>
-**👩‍💻 Backend Part Memeber of 9oormthon Univ SeoulTech `2024`** <br>
-**👩‍💻 Google Developer Students Club Seoultech 3th Member `2023-2024`** <br>
-**🏄‍♀️ Vice-President of the SeoulTech ITM major Student Council `2024`** <br>
-**🏄‍♀️ Manager of IT department of SeoulTech Total Student Council `2023`** <br>
+🧪 Worked as a Visiting Researcher in Lancaster University `Summer 2026`<br>
+🧪 Worked as an Undergraduate Research Student in IXLAB SeoulTech `2025`<br>
+👩‍💻 Google Developer Groups on Campus 5th Core Member `2025-2026`<br>
+👩‍💻 Backend Part Memeber of 9oormthon Univ SeoulTech `2024` <br>
+👩‍💻 Google Developer Students Club Seoultech 3th Member `2023-2024` <br>
+🏄‍♀️ Vice-President of the SeoulTech ITM major Student Council `2024` <br>
+🏄‍♀️ Manager of IT department of SeoulTech Total Student Council `2023` <br>
 🌏 Member of the Seoultech International Student Club `2023-2024`
+
+
+### 📑 Publications
+[Y. Jeong*, **J. Lee***, J.-Y. Jeong, E. Byun, H. Ko, and J.-W. Jeong. 2026. Investigating the Impact of Lying Postures on Mixed Reality Interaction. In Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26), Barcelona, Spain.](https://dl.acm.org/doi/10.1145/3772363.3798467)
+
+[**J. Lee**, H. Ko, E. Byun, Y. Jeong, J.-Y. Jeong, J. Oh, and J. Jeong. 2025. 다양한 누운자세가 혼합현실(MR)에서의 3차원조작성능에 미치는 영향분석(Effects of Different Lying-Down
+Postures on 3D Manipulation Performance in Mixed Reality). In Proceedings of the Korea Computer Congress 2025 (KSC 2025), 1073–1075.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577737)
+
 
 ### 🏆 Awards
 🥇 Won gold prize at Global Challenger `2024` <br>
